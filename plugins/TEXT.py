@@ -1,7 +1,7 @@
 
 
 # Here is Your Drive Folder Name You can Replace it with Your Desire name(Optional)
-drive_folder_name = "GDriveUploaderBot"
+drive_folder_name = "HB GDRIVE DYAR"
 
 
 # Enter Your Mega email And Pass (Required)
@@ -9,7 +9,7 @@ MEGA_EMAIL = "bearyan8@yandex.com"
 MEGA_PASSWORD = "bearyan8@yandex.com"
 
 
-START = " Hi {}  \nI am Drive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Third-Party Website \n Support Added /update \n\n For Bot Updates  \n <a href ='https://t.me/aryan_bots'>Join Channel</a>\nPlease Report Bugs  @aryanvikash"
+START = " Hi {}  \nI am Drive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Third-Party Website \n Support Added /update \n\n For Bot Updates  \n <a href ='https://t.me/kdramashindi'>Join Channel</a>\nPlease Report Bugs  @hbhammaddyar"
 
 HELP = """   <b>AUTHORISE BOT</b> 
        Use  /auth Command Generate
@@ -32,7 +32,7 @@ HELP = """   <b>AUTHORISE BOT</b>
             
             + More On Its way:)
                 
-Bug Report @aryanvikash
+Bug Report @hbhammaddyar
         """
 DP_DOWNLOAD = "Dropbox Link !! Downloading Started ..."
 OL_DOWNLOAD = "Openload Link !! Downloading Started ... \n Openload Links Are Extremely Slow"
@@ -51,7 +51,7 @@ REVOKE_TOK = " Your Token is Revoked Successfully !! \n\n Use /auth To Re-Author
 # DOWN_PATH = "Downloads\\" #windows path
 DOWN_PATH = "Downloads/"  # Linux path
 DOWNLOAD_URL = "Your File Uploaded Successfully \n\n <b>Filename</b> : {} \n\n <b> Size</b> : {} MB \n\n <b>Download</b> {}"
-AUTH_ERROR = "AUTH Error !! Please  Send Me a  valid Token or Re - Authorise Me  \n\n report At @aryanvikash"
+AUTH_ERROR = "AUTH Error !! Please  Send Me a  valid Token or Re - Authorise Me  \n\n report At @hbhammaddyar"
 OPENLOAD = True
 DROPBOX = True
 MEGA = True
